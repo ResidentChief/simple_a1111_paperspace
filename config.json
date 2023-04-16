@@ -29,7 +29,7 @@
     "upcast_sampling": true,
     "ckpt_dir": "/tmp/models/stable-diffusion",
     "vae_dir": "/tmp/automatic/models/VAE",
-    "embeddings_dir": "/notebooks/automatic/embeddings",
+    "embeddings_dir": "/notebooks/embeddings",
     "embeddings_templates_dir": "/notebooks/automatic/train/templates",
     "hypernetwork_dir": "/notebooks/automatic/models/hypernetworks",
     "codeformer_models_path": "/notebooks/automatic/models/Codeformer",
