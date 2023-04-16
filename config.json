@@ -34,7 +34,7 @@
     "hypernetwork_dir": "/notebooks/automatic/models/hypernetworks",
     "codeformer_models_path": "/notebooks/automatic/models/Codeformer",
     "gfpgan_models_path": "/notebooks/automatic/models/GFPGAN",
-    "esrgan_models_path": "/notebooks/automatic/models/ESRGAN",
+    "esrgan_models_path": "/notebooks/ESRGAN",
     "bsrgan_models_path": "/notebooks/automatic/models/BSRGAN",
     "realesrgan_models_path": "/notebooks/automatic/models/RealESRGAN",
     "clip_models_path": "/notebooks/automatic/models/CLIP",
