@@ -160,5 +160,5 @@
     "ldsr_cached": false,
     "SWIN_tile": 192,
     "SWIN_tile_overlap": 8,
-    "sd_lora": "None",
+    "sd_lora": "None"
 }
